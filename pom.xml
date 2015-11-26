@@ -163,7 +163,7 @@
                 <configuration>
                     <format>html5</format>
                     <customCssFile>src/test/resources/photobooth.css</customCssFile>
-                    <title>PhotoBooth BDD Scenarios</title>
+                    <title>PhotoBooth BDD Scenarios - https://github.com/mthuret/xke-jgiven</title>
                 </configuration>
             </plugin>
             <plugin>
