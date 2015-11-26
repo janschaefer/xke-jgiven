@@ -1,1 +1,1 @@
-jgivenReport.setMetaData({"created":"Nov 26, 2015 9:26:50 AM","title":"PhotoBooth BDD Scenarios","data":["data0.js"]} );
+jgivenReport.setMetaData({"created":"Nov 26, 2015 9:49:49 AM","title":"PhotoBooth BDD Scenarios - https://github.com/mthuret/xke-jgiven","data":["data0.js"]} );
