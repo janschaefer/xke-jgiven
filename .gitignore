@@ -1,0 +1,7 @@
+target
+xke-jgiven.iml
+.idea
+jgiven-reports/**/*.json
+pom.xml
+src
+README.md
