@@ -6,8 +6,3 @@
 .scenario-group-name:after{
     content: " :";
 }
-
-.direct-image {
-  box-shadow: 3px 3px 15px #333;
-  margin-top: 10px;
-}
